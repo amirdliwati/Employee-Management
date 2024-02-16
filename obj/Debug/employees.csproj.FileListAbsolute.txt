@@ -1,0 +1,45 @@
+E:\employees\employees\employees\bin\Debug\employees.exe
+E:\employees\employees\employees\bin\Debug\employees.pdb
+E:\employees\employees\employees\obj\Debug\ResolveAssemblyReference.cache
+E:\employees\employees\employees\obj\Debug\employees.Form1.resources
+E:\employees\employees\employees\obj\Debug\employees.Properties.Resources.resources
+E:\employees\employees\employees\obj\Debug\employees.csproj.GenerateResource.Cache
+E:\employees\employees\employees\obj\Debug\employees.exe
+E:\employees\employees\employees\obj\Debug\employees.pdb
+E:\employees\employees\employees\bin\Debug\JbsaPrintDataGridView.dll
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\employees.exe
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\employees.pdb
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\employees.Form1.resources
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\employees.Properties.Resources.resources
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\employees.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\employees\employees\employees\bin\Debug\employees.exe
+C:\Users\Administrator\Desktop\employees\employees\employees\bin\Debug\employees.pdb
+C:\Users\Administrator\Desktop\employees\employees\employees\obj\Debug\employees.Form2.resources
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\employees.exe
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\employees.pdb
+C:\Users\Administrator\Desktop\employees\employees\bin\Debug\employees.exe
+C:\Users\Administrator\Desktop\employees\employees\bin\Debug\employees.pdb
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\employees.Form1.resources
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\employees.Form2.resources
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\employees.Properties.Resources.resources
+C:\Users\Administrator\Desktop\employees\employees\obj\Debug\employees.csproj.GenerateResource.Cache
+D:\employees\employees\obj\Debug\employees.exe
+D:\employees\employees\obj\Debug\employees.pdb
+D:\employees\employees\bin\Debug\employees.exe
+D:\employees\employees\bin\Debug\employees.pdb
+D:\employees\employees\obj\Debug\ResolveAssemblyReference.cache
+D:\employees\employees\obj\Debug\employees.Form1.resources
+D:\employees\employees\obj\Debug\employees.Form2.resources
+D:\employees\employees\obj\Debug\employees.Properties.Resources.resources
+D:\employees\employees\obj\Debug\employees.csproj.GenerateResource.Cache
+J:\My Flash\Projects\employees\employees\obj\Debug\employees.exe
+J:\My Flash\Projects\employees\employees\obj\Debug\employees.pdb
+J:\My Flash\Projects\employees\employees\bin\Debug\employees.exe
+J:\My Flash\Projects\employees\employees\bin\Debug\employees.pdb
+J:\My Flash\Projects\employees\employees\obj\Debug\ResolveAssemblyReference.cache
+J:\My Flash\Projects\employees\employees\obj\Debug\employees.Form1.resources
+J:\My Flash\Projects\employees\employees\obj\Debug\employees.Form2.resources
+J:\My Flash\Projects\employees\employees\obj\Debug\employees.Properties.Resources.resources
+J:\My Flash\Projects\employees\employees\obj\Debug\employees.csproj.GenerateResource.Cache
